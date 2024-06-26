@@ -18,7 +18,7 @@ public class UserTests {
 	Faker faker;
 	User userPayload;
 	public Logger logger;//creating logger
-	
+	// https://github.com/msingharora/restAPIFramework.git
 	@Test
 	public void setUpData()
 	{
