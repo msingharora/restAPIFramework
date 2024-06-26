@@ -1,0 +1,42 @@
+17:39:04.659 [main] INFO  com.api.tests.UserTests - ***************Creating User********************
+17:39:10.176 [main] INFO  com.api.tests.UserTests - *****************User Created******************
+17:39:10.187 [main] INFO  com.api.tests.UserTests - *****************Updating User******************
+17:39:10.514 [main] INFO  com.api.tests.UserTests - *****************User Updated******************
+17:39:10.753 [main] INFO  com.api.tests.UserTests - *****************Deleting User ******************
+17:39:10.988 [main] INFO  com.api.tests.UserTests - *****************User Deleted******************
+17:40:43.269 [main] INFO  com.api.tests.UserTests - ***************Creating User********************
+17:40:46.729 [main] INFO  com.api.tests.UserTests - *****************User Created******************
+17:40:46.744 [main] INFO  com.api.tests.UserTests - *****************Updating User******************
+17:40:47.019 [main] INFO  com.api.tests.UserTests - *****************User Updated******************
+17:40:47.247 [main] INFO  com.api.tests.UserTests - *****************Deleting User ******************
+17:40:47.481 [main] INFO  com.api.tests.UserTests - *****************User Deleted******************
+23:20:30.954 [main] INFO  com.api.tests.UserTests - ***************Creating User********************
+23:20:34.809 [main] INFO  com.api.tests.UserTests - *****************User Created******************
+23:20:34.814 [main] INFO  com.api.tests.UserTests - *****************Updating User******************
+23:20:35.109 [main] INFO  com.api.tests.UserTests - *****************User Updated******************
+23:20:35.326 [main] INFO  com.api.tests.UserTests - *****************Deleting User ******************
+23:20:35.561 [main] INFO  com.api.tests.UserTests - *****************User Deleted******************
+23:32:25.461 [main] INFO  com.api.tests.UserTests - ***************Creating User********************
+23:32:29.668 [main] INFO  com.api.tests.UserTests - *****************User Created******************
+23:32:29.673 [main] INFO  com.api.tests.UserTests - *****************Updating User******************
+23:32:29.968 [main] INFO  com.api.tests.UserTests - *****************User Updated******************
+23:32:30.204 [main] INFO  com.api.tests.UserTests - *****************Deleting User ******************
+23:32:30.420 [main] INFO  com.api.tests.UserTests - *****************User Deleted******************
+23:32:53.195 [main] INFO  com.api.tests.UserTests - ***************Creating User********************
+23:32:57.773 [main] INFO  com.api.tests.UserTests - *****************User Created******************
+23:32:57.777 [main] INFO  com.api.tests.UserTests - *****************Updating User******************
+23:32:58.182 [main] INFO  com.api.tests.UserTests - *****************User Updated******************
+23:32:58.404 [main] INFO  com.api.tests.UserTests - *****************Deleting User ******************
+23:32:58.628 [main] INFO  com.api.tests.UserTests - *****************User Deleted******************
+23:44:24.951 [main] INFO  com.api.tests.UserTests - ***************Creating User********************
+23:44:32.086 [main] INFO  com.api.tests.UserTests - *****************User Created******************
+23:44:32.097 [main] INFO  com.api.tests.UserTests - *****************Updating User******************
+23:44:32.514 [main] INFO  com.api.tests.UserTests - *****************User Updated******************
+23:44:32.782 [main] INFO  com.api.tests.UserTests - *****************Deleting User ******************
+23:44:33.013 [main] INFO  com.api.tests.UserTests - *****************User Deleted******************
+23:45:05.245 [main] INFO  com.api.tests.UserTests - ***************Creating User********************
+23:45:12.767 [main] INFO  com.api.tests.UserTests - *****************User Created******************
+23:45:12.781 [main] INFO  com.api.tests.UserTests - *****************Updating User******************
+23:45:13.173 [main] INFO  com.api.tests.UserTests - *****************User Updated******************
+23:45:13.458 [main] INFO  com.api.tests.UserTests - *****************Deleting User ******************
+23:45:13.718 [main] INFO  com.api.tests.UserTests - *****************User Deleted******************
